@@ -1,0 +1,11 @@
+First	1
+My	2
+Name	1
+Navjot	2
+Singh	1
+Virk.	1
+and	1
+is	3
+last	1
+name	2
+virk.	1

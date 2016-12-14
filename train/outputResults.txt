@@ -1,0 +1,10 @@
+631,1,1,"Barkworth, Mr. Algernon Henry Wilson",male,80,0,0,27042,30,A23,S
+852,0,3,"Svensson, Mr. Johan",male,74,0,0,347060,7.775,,S
+97,0,1,"Goldschmidt, Mr. George B",male,71,0,0,PC 17754,34.6542,A5,C
+494,0,1,"Artagaveytia, Mr. Ramon",male,71,0,0,PC 17609,49.5042,,C
+746,0,1,"Crosby, Capt. Edward Gifford",male,70,1,1,WE/P 5735,71,B22,S
+673,0,2,"Mitchell, Mr. Henry Michael",male,70,0,0,C.A. 24580,10.5,,S
+34,0,2,"Wheadon, Mr. Edward H",male,66,0,0,C.A. 24579,10.5,,S
+55,0,1,"Ostby, Mr. Engelhart Cornelius",male,65,0,1,113509,61.9792,B30,C
+457,0,1,"Millet, Mr. Francis Davis",male,65,0,0,13509,26.55,E38,S
+281,0,3,"Duane, Mr. Frank",male,65,0,0,336439,7.75,,Q
